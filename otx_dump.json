@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "name": "Demo Pulse - Test IoC",
+      "tags": [
+        "test",
+        "demo"
+      ],
+      "created": "2025-01-01T00:00:00Z",
+      "indicators": [
+        {
+          "type": "IPv4",
+          "indicator": "185.130.5.253"
+        },
+        {
+          "type": "domain",
+          "indicator": "evil-c2.example.com"
+        }
+      ]
+    }
+  ]
+}
